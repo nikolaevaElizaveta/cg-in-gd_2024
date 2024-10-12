@@ -35,3 +35,9 @@ cmake ..
 - [Cube model](https://casual-effects.com/g3d/data10/index.html#) by Morgan McGuire (CC BY 3.0 License)
 - [Teapot model](https://casual-effects.com/g3d/data10/common/model/teapot/teapot.zip) by Martin Newell (CC0 License)
 - [Dabrovic Sponza model](https://casual-effects.com/g3d/data10/index.html#) by Marko Dabrovic (CC BY-NC License)
+
+## Raytracing results
+
+No aabb : Raytracing time: 35023.9ms
+
+With aabb : Raytracing time: 22585.8ms
